@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./images/github-banner.png)
+![banner.png](./image/github-banner.png)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -10,7 +10,7 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![background.png](./images/github-back.jpg)
+![background.png](./image/github-back.jpg)
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/connect-with-me.png)
+![connect-with-me.png](./image/connect-with-me.png)
 
 <p align="center">
 <a href="https://discordapp.com/users/Aryaman#1465/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/aryaman-78382a12b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryaman_linkedIn"/></a> <a href="https://www.instagram.com/aryaman_z29/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aryaman_z29" /></a>
@@ -53,11 +53,11 @@
 
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
 
-[twitter]: https://twitter.com/AryamanZ29
-[instagram]: https://www.instagram.com/aryaman_z29/
-[linkedin]: https://www.linkedin.com/in/aryaman-78382a12b
-[github]:https://github.com/Aryamanz29
-[gmail]:mailto:aryamanz29@gmail.com
+[twitter]: https://twitter.com/Jacob
+[instagram]: https://www.instagram.com/Jacob
+[wechat]:suanleba
+[github]:https://github.com/Jc-Bravo
+[gmail]:jacob.c.cr7@gmail.com
 
 <!---
 Jc-Bravo/Jc-Bravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
