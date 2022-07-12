@@ -43,10 +43,10 @@
 ![connect-with-me.png](./image/connect-with-me.png)
 
 <p align="center">
-<a href="https://discordapp.com/users/Aryaman#1465/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/aryaman-78382a12b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryaman_linkedIn"/></a> <a href="https://www.instagram.com/aryaman_z29/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aryaman_z29" /></a>
+<a href="https://discordapp.com/users/Jacob/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/aryaman-78382a12b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aryaman_linkedIn"/></a> <a href="https://www.instagram.com/aryaman_z29/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aryaman_z29" /></a>
 <br>
 <br>
-<a href="https://twitter.com/AryamanZ29" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a>
+<a href="https://twitter.com/Jacob" target="blank"><img src="https://img.shields.io/twitter/follow/AryamanZ29?logo=twitter&style=for-the-badge" alt="AryamanZ29" /></a>
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
